@@ -5,7 +5,7 @@ from pathlib import Path
 import streamlit as st
 
 # TODO: user to confirm moringa order number
-WHATSAPP_NUMBER = "923323167915"
+WHATSAPP_NUMBER = "923212151336"
 
 BASE_DIR = Path(__file__).parent
 ASSETS = BASE_DIR / "assets"
